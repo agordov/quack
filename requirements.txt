@@ -37,7 +37,7 @@ mccabe==0.6.1
 menulibre==2.2.0
 more-itertools==4.3.0
 mugshot==0.4.0
-numpy==1.13.3
+numpy==1.22.0
 oauth==1.0.1
 olefile==0.45.1
 onboard==1.4.1
